@@ -173,9 +173,9 @@ section {
 #primary-nav li a {
   color: #121212;
   font-weight: bold;
-  line-height: 20px;
+  line-height: 30px;
   padding: 5px 15px;
-  /* font-size: 15px; */
+  font-size: 16px;
   font-weight: 400;
   transition: all 0.5s;
 }
